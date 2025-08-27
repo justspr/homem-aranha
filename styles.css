@@ -80,3 +80,12 @@ body {
     font-weight: bold;
     
 }
+
+footer {
+    display: grid;
+    grid-template-columns: 10% 90%;
+    align-items: center;
+    background-color: var(--vermelho);
+    text-align: center;
+    padding: 20px;
+}
