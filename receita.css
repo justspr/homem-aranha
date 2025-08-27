@@ -70,3 +70,8 @@ header img {
     margin-bottom: 10px;
     color: var(--vermelho);
 }
+
+.ingredientes ul, .preparo ol {
+    margin-left: 20px;
+    line-height: 1.6;
+}
