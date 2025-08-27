@@ -72,3 +72,11 @@ body {
     object-fit: cover;
     border-radius: 10px;
 }
+
+.receita a {
+    color: black;
+    margin-top: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
